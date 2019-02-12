@@ -1,0 +1,30 @@
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties\Letterfrequenties\bin\Debug\Letterfrequenties.exe.config
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties\Letterfrequenties\bin\Debug\Letterfrequenties.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties\Letterfrequenties\bin\Debug\Letterfrequenties.pdb
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties\Letterfrequenties\obj\Debug\Letterfrequenties.csprojAssemblyReference.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties\Letterfrequenties\obj\Debug\MainWindow.g.cs
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties\Letterfrequenties\obj\Debug\App.g.cs
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties\Letterfrequenties\obj\Debug\Letterfrequenties_MarkupCompile.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties\Letterfrequenties\obj\Debug\Letterfrequenties_MarkupCompile.lref
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties\Letterfrequenties\obj\Debug\MainWindow.baml
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties\Letterfrequenties\obj\Debug\Letterfrequenties.g.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties\Letterfrequenties\obj\Debug\Letterfrequenties.Properties.Resources.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties\Letterfrequenties\obj\Debug\Letterfrequenties.csproj.GenerateResource.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties\Letterfrequenties\obj\Debug\Letterfrequenties.csproj.CoreCompileInputs.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties\Letterfrequenties\obj\Debug\Letterfrequenties.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties\Letterfrequenties\obj\Debug\Letterfrequenties.pdb
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties - Copy\Letterfrequenties\bin\Debug\Letterfrequenties.exe.config
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties - Copy\Letterfrequenties\bin\Debug\Letterfrequenties.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties - Copy\Letterfrequenties\bin\Debug\Letterfrequenties.pdb
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties - Copy\Letterfrequenties\obj\Debug\Letterfrequenties.csprojAssemblyReference.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties - Copy\Letterfrequenties\obj\Debug\MainWindow.g.cs
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties - Copy\Letterfrequenties\obj\Debug\App.g.cs
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties - Copy\Letterfrequenties\obj\Debug\Letterfrequenties_MarkupCompile.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties - Copy\Letterfrequenties\obj\Debug\Letterfrequenties_MarkupCompile.lref
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties - Copy\Letterfrequenties\obj\Debug\MainWindow.baml
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties - Copy\Letterfrequenties\obj\Debug\Letterfrequenties.g.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties - Copy\Letterfrequenties\obj\Debug\Letterfrequenties.Properties.Resources.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties - Copy\Letterfrequenties\obj\Debug\Letterfrequenties.csproj.GenerateResource.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties - Copy\Letterfrequenties\obj\Debug\Letterfrequenties.csproj.CoreCompileInputs.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties - Copy\Letterfrequenties\obj\Debug\Letterfrequenties.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 4 Letterfrequenties\Letterfrequenties - Copy\Letterfrequenties\obj\Debug\Letterfrequenties.pdb
